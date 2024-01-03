@@ -15,9 +15,8 @@
 - Bitcoin Price Prediction using Machine Learning (Linear Regression, AdaBoost, LSTM)
 
 ## 📫 Reach Me at:
-- LinkedIn: https://www.linkedin.com/in/manasa-panidapu-ba6920221/
+- <a href="https://www.linkedin.com/in/manasa-panidapu-ba6920221/">LinkedIn</a>
 - Email: manasapanidapu@gmail.com
-- <a href="https://www.linkedin.com/in/manasa-panidapu-ba6920221/" id="(https://www.linkedin.com/in/manasa-panidapu-ba6920221/)">LinkedIn</a>
 
 <!--
 **manasa-x/manasa-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
