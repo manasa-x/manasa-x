@@ -1,4 +1,4 @@
-# Hello there, I am Manasa (@manasa-x), A Computer Science student👋 
+## Hello there, I am Manasa (@manasa-x), A Computer Science student👋 
 
 ## 💬 About me:
 - Currently pursuing B.tech 3rd year
@@ -17,6 +17,7 @@
 ## 📫 Reach Me at:
 - LinkedIn: https://www.linkedin.com/in/manasa-panidapu-ba6920221/
 - Email: manasapanidapu@gmail.com
+- <a href="(https://www.linkedin.com/in/manasa-panidapu-ba6920221/)" id="link2">LinkedIn</a>
 
 <!--
 **manasa-x/manasa-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
