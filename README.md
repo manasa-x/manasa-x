@@ -8,10 +8,10 @@
 - Languages: Python, Java
 - Tech Stacks: MERN
 - Databases: SQL, MongoDB
-- Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, Tensorflow
+- Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, OpenCV
 
 ## 🔭 Projects:
-- Face Recognition based Attendance System ( Haar Cascade and LBPH Algorithm)
+- Face Recognition based Attendance System (Haar Cascade and LBPH Algorithm)
 - Bitcoin Price Prediction using Machine Learning (Linear Regression, AdaBoost, LSTM)
 
 ## 📫 Reach Me at:
