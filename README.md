@@ -1,4 +1,4 @@
-### Hello there, I am Manasa (@manasa-x), A Computer Science student👋 
+# Hello there, I am Manasa (@manasa-x), A Computer Science student👋 
 
 ## 💬 About me:
 - Currently pursuing B.tech 3rd year
