@@ -17,7 +17,6 @@
 ## 📫 Reach Me at:
 - <a href="https://www.linkedin.com/in/manasa-panidapu-ba6920221/">LinkedIn</a>
 - Email: manasapanidapu@gmail.com
-- <a href="manasapanidapu@gmail.com">Email</a>
 
 <!--
 **manasa-x/manasa-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
