@@ -5,10 +5,10 @@
 - Interested in Web Development and AI
 
 ## 🔧 Skills:
-- Languages: Python, Java
+- Languages: Python, Java, html, css, javascipt, PHP
 - Tech Stacks: MERN
 - Databases: SQL, MongoDB
-- Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, OpenCV
+- Frameworks: Laravel, React, Node, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, OpenCV
 
 ## 🔭 Projects:
 - Face Recognition based Attendance System (Haar Cascade and LBPH Algorithm)
