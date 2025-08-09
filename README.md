@@ -1,16 +1,17 @@
-## Hello there, I am Manasa (@manasa-x), A Computer Science student👋 
+## Hello there, I am Manasa (@manasa-x), A Computer Science graduate👋 
 
 ## 💬 About me:
-- Currently pursuing B.tech 3rd year
-- Interested in Web Development and AI
+- B.Tech CSE Graduate from Woxsen University, Hyd
+- Skilled in Web & Fullstack Development, Data Analysis, OOPs
 
 ## 🔧 Skills:
-- Languages: Python, Java, html, css, javascipt, PHP
-- Tech Stacks: MERN
+- Languages: Python, Java, html5, css3, javascipt, PHP, AJAX
 - Databases: SQL, MongoDB
-- Frameworks: Laravel, React, Node, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, OpenCV
+- Frameworks: Laravel, jQuery, React, Node, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, OpenCV
 
 ## 🔭 Projects:
+- Smart Battery Management for Renewable Energy Storage System (Reinforcement Learning)
+- Fairness in group recommendation system (Collaborative Filtering, SVM)
 - Face Recognition based Attendance System (Haar Cascade and LBPH Algorithm)
 - Bitcoin Price Prediction using Machine Learning (Linear Regression, AdaBoost, LSTM)
 
