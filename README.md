@@ -2,12 +2,13 @@
 
 ## 💬 About me:
 - B.Tech CSE Graduate from Woxsen University, Hyd
-- Skilled in Web & Fullstack Development, Data Analysis, OOPs
+- Skilled in Web Development, Data Analysis, OOPs
 
 ## 🔧 Skills:
 - Languages: Python, Java, html5, css3, javascipt, PHP, AJAX
 - Databases: SQL, MongoDB
-- Frameworks: Laravel, jQuery, React, Node, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, OpenCV
+- Frameworks: Laravel, jQuery, React, Node, OpenCV
+- DS Tools: Excel, Tableau, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Tensorflow
 
 ## 🔭 Projects:
 - Smart Battery Management for Renewable Energy Storage System (Reinforcement Learning)
