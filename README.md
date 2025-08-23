@@ -2,7 +2,7 @@
 
 ## 💬 About me:
 - B.Tech CSE Graduate from Woxsen University, Hyd
-- Skilled in Web Development, Data Analysis, OOPs
+- Skilled in Data Analytics, Web Development, OOPs
 
 ## 🔧 Skills:
 - Languages: Python, Java, html5, css3, javascipt, PHP, AJAX
